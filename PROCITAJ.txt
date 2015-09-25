@@ -1,0 +1,7 @@
+@fplanque 
+Skin name: Metra Station 2 Columns
+Link to skin: http://skins.b2evolution.net/metrastation2columns
+Functionality:
+1. removing redundant file **_html_header.inc.php** - FIXED
+Official Hompage of the skin: / (waiting for permission)
+SourceForge: /
