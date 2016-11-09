@@ -4,6 +4,14 @@ Link to skin: http://skins.b2evolution.net/metrastation2columns-skin
 
 <img src="skinshot.png"/>
 
+### Update Log
+
+#### v1.1.1
+
+- Removing obsolete file _html_header.inc.php
+- Skin name fix
+- New skinshot
+
 #### v1.1.
 
 - Sitewide_header included for easier multi-blogging experience

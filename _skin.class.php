@@ -6,8 +6,15 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  *
  * ATTENTION: if you make a new skin you have to change the class name below accordingly
  */
-class metra_station_2_col_Skin extends Skin
+class metrastation2columns_Skin extends Skin
 {
+	/**
+	 * Skin version
+	 * @var string
+	 */
+	var $version = '1.1.1';
+	
+	
   /**
 	 * Get default name for the skin.
 	 * Note: the admin can customize it.
